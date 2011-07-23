@@ -1,0 +1,16 @@
+*.aux
+*.dvi
+*.glg
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.myo
+*.mys
+*.out
+*.toc
+*.pyc
+*~
+*#
