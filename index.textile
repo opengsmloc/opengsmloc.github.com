@@ -1,6 +1,8 @@
 ---
 title: Home
 layout: slideshowpage
+slideshowtitle1: Just a small test.
+slideshowbody1: Dumdidudiumdidum
 ---
 
 h1. Just a small test
