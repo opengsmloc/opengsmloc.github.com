@@ -1,16 +1,5 @@
-/************************************
-AURELIUS
-URL: www.qwibbledesigns.co.uk/preview/aurelius/
-AUTHOR: Matthew Corner (QwibbleDesigns)
-DATE: 31 Jan, 2010
-REVISION: 1.0
-DESCRIPTION: A premium business and portfolio theme.
-************************************/
-
-/* Global Styles */
-
 body {
-    background:#fff url(../images/bg_body.gif) repeat-x;
+    background: url('backgroundtile.png') fixed top;
     font-family:'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Arial, san-serif; 
     color:#000000;
 }
