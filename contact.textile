@@ -19,6 +19,7 @@ h3. Brendan Johan Lee
 
 Personal website: "http://brendan.is":http://brendan.is
 Blog: "http://gsmblog.net":http://gsmblog.net and "http://blog.vanntett.net":http://blog.vanntett.net
+Email: brendan at famlee.name
 Facebook: "http://brendan.is/on-facebook":http://brendan.is/on-facebook
 Twitter: "http://brendan.is/on-twitter":http://brendan.is/on-twitter
 Identi.ca: "http://brendan.is/on-identi.ca":http://brendan.is/on-identi.ca
