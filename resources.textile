@@ -13,3 +13,4 @@ This is a list of resources for the opengsmloc project. The list is not yet comp
 * The opengsmloc project source code is found at "github":https://github.com/opengsmloc/opengsmloc
 * The project wiki is located "here":https://github.com/opengsmloc/opengsmloc/wiki
 * The project issue tracker is located "here":https://github.com/opengsmloc/opengsmloc/issues
+* The original gsmcellspotting project that later lead to the thesis this project is based on can be found "here":http://www.gsmcellspotting.com
