@@ -1,0 +1,15 @@
+---
+title: Resources
+layout: default
+---
+
+h1. Project resources
+
+This is a list of resources for the opengsmloc project. The list is not yet complete. If you have suggestions please "Contact":http://opengsmloc.org/contact.html us.
+
+* The Master's Thesis this project is based on can be found as a pdf-file for on-screen reading "here":http://opengsmloc.org/thesis/thesis-final-color-gloss.pdf or for print "here":http://opengsmloc.org/thesis/thesis-final-print.pdf
+* Slides from the Thesis Defence are located "here":http://opengsmloc.org/thesis/defence.pdf
+* An archive of files/information is found "here":http://files.opengsmloc.org/ (Password protected. Please "contact":http://opengsmloc.org/contact.html for access)
+* The opengsmloc project source code is found at "github":https://github.com/opengsmloc/opengsmloc
+* The project wiki is located "here":https://github.com/opengsmloc/opengsmloc/wiki
+* The project issue tracker is located "here":https://github.com/opengsmloc/opengsmloc/issues
