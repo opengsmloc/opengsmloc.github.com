@@ -1,5 +1,5 @@
 body {
-    background: url('/images/backgroundtile.png') fixed top;
+    background:#fff url(../images/bg_body.gif) repeat-x;
     font-family:'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Arial, san-serif; 
     color:#000000;
 }
