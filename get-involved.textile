@@ -1,0 +1,26 @@
+---
+title: Get Involved
+layout: default
+slogan: Because <span>freedom</span> matters.
+---
+
+The project is still in its infancy. Much of the work done is theoretical, though a fair amount of code has already been created. 
+
+At this stage we are mainly looking for smart people to help brainstorm the project and contribute cool ideas and suggestions. 
+
+We are also interested in coders. Most of the project so far is written in python. Java is used for Android applications. However, both client software, and potentially server software can be created in any language. We are looking for a distributed, open model without limitations.
+
+We have identified several important things to do already, the most important ones being (see "the about page":http://opengsmloc.org/about.html for more details):
+
+* Tidy the existing server code, and get an actual working test-server up and running
+* Brainstorm and create a flexible server API
+* Brainstorm the possibility of distributed servers and distributed storage on clients, and incorporate into API
+* Create client software for as many handsets as possible
+* Create LBS client software
+* Tidy and release the glocalizer software (Map overlay rendering software created to be used within the project, but can be of potential interest outside of the project as well)
+
+If you are at "Chaos Computer Camp 2011":http://events.ccc.de/camp/2011/ come have a chat with us. We will most likely be hanging out at the RadioVillage. If you are in Oslo, Norway at any time and would like to meet up, let us know.
+
+If you cannot meet us in person, feel free to send an email to brendan at opengsmloc.org. 
+
+Don't hesitate to contact us, we don't bite, and we don't require a huge amount of contributions. We are looking for everything from hardcore coders, to "idea guys" and everything in between. If you feel you have something to contribute, send us an email.
