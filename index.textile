@@ -1,10 +1,15 @@
 ---
 title: Home
-layout: slideshowpage
-slideshowtitle1: Just a small test.
-slideshowbody1: Dumdidudiumdidum
+layout: front
+
+teaser4href: /contact.html
+teaser4title: Follow us
+teaser4txt: Stay tuned to the lates updates through social media
+teaser4img: images/hungry_bird.png
+
+teaser3href: /get-involved.html
+teaser3title: Get involved
+teaser3txt: opengsmloc is a free, open project developed by volunteers. Here's how you can contribute.
+teaser3img: images/Blog_Artdesigner.lv.png
 ---
 
-h1. Just a small test
-
-This is just a small test
