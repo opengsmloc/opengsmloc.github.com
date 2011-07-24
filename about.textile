@@ -6,3 +6,5 @@ menu2current: current
 ---
 
 More text coming soon
+
+Interested? Find out how to "get involved":http://opengsmloc.org/get-involved.html
