@@ -2,6 +2,8 @@
 title: Home
 layout: front
 
+menu1current: current
+
 teaser4href: /contact.html
 teaser4title: Follow us
 teaser4txt: Stay tuned to the lates updates through social media
