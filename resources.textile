@@ -1,9 +1,7 @@
 ---
-title: Resources
+title: Project Resources
 layout: default
 ---
-
-h1. Project resources
 
 This is a list of resources for the opengsmloc project. The list is not yet complete. If you have suggestions please "Contact":http://opengsmloc.org/contact.html us.
 
