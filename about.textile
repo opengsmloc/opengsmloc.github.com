@@ -1,0 +1,8 @@
+---
+title: About
+layout: default
+slogan: Because <span>freedom</span> matters.
+menu2current: current
+---
+
+More text coming soon
