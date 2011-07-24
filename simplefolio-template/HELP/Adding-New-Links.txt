@@ -1,0 +1,7 @@
+
+**********************
+** ADDING NEW LINKS **
+**********************
+
+To read documentation on the jQuery Smooth Anchors Plugin, Head over to:
+http://www.ooeygui.net/articles/399

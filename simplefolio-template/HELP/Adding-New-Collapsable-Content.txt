@@ -1,0 +1,46 @@
+
+*****************************
+** ADDING NEWCONTENT AREAS **
+*****************************
+
+To read documentation on the Anmated Collapsible DIV script, head over to:
+http://www.dynamicdrive.com/dynamicindex17/animatedcollapse.htm
+	
+1. Create 2 new header images using template proving at ../EXTRAS/PSD/Header-Template.psd
+	One image which will represent expand (read more) +
+	The other will represent Contract (read less) -
+	
+2. Add a new div container in the HTML with a class of whatever you want. eg 'Services'
+
+3. Copy and paste the following code to the first line inside the div
+
+	<a href="'void(0)'" rel="toggle[welcomebox]" data-openimage="inc/common/welcomecollapse.png" data-closedimage="inc/common/welcomeexpand.png"><img src="inc/common/welcomecollapse.png" alt="welcome" border="0" /></a>
+	
+	Be sure to change [welcomebox] to whatever you want your content area to be called, and also change the open/close images to the 
+	appropriate file names.
+	
+	All Preview / Excerpt text must go inside standard <p></p> tags.
+	
+	All content which you might want to be hidden and then revealed must be inside <p></p> tags with an ID. 
+	eg: '<p id="servicesbox"></p>'
+	
+4. Making it work.
+	
+	In the HTML file look in the <head></head> for the following code:
+	<script type="text/javascript">
+		animatedcollapse.addDiv('welcomebox', 'fade=0,speed=600,hide=1')
+		animatedcollapse.addDiv('servicesbox', 'fade=0,speed=600,hide=1')
+		animatedcollapse.addDiv('portfoliobox', 'fade=0,speed=600')
+		animatedcollapse.addDiv('contactbox', 'fade=0,speed=600')
+		animatedcollapse.ontoggle=function($, divobj, state){}
+		animatedcollapse.init()
+	</script>
+	
+	Add a new line.
+	animatedcollapse.addDiv('HIDDEN-PARAGRAPH-ID', 'fade=0,speed=600')
+	
+	To read documentation on the Anmated Collapsible DIV script, head over to:
+	http://www.dynamicdrive.com/dynamicindex17/animatedcollapse.htm
+	
+	
+			
