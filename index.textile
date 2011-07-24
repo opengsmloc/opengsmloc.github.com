@@ -2,6 +2,7 @@
 title: Home
 layout: front
 
+slogan: Because <span>freedom</span> matters.
 menu1current: current
 
 teaser4href: /contact.html
