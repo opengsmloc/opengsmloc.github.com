@@ -1,5 +1,5 @@
 body {
-    background: url('backgroundtile.png') fixed top;
+    background: url('/images/backgroundtile.png') fixed top;
     font-family:'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Arial, san-serif; 
     color:#000000;
 }
