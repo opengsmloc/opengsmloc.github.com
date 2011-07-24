@@ -1,6 +1,8 @@
 ---
 title: Project Resources
 layout: default
+slogan: Because <span>freedom</span> matters.
+menu3current: current
 ---
 
 This is a list of resources for the opengsmloc project. The list is not yet complete. If you have suggestions please "Contact":http://opengsmloc.org/contact.html us.
