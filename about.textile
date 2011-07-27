@@ -7,38 +7,17 @@ menu2current: current
 
 h2. Project Description
 
-OpenLoc is an open-source project that creates a privacy-preserving location
-estimation system which turns crowd-sourced observations on wireless networks
-into freely available location data. OpenLoc works with multiple mobile
-network technologies (GSM, 3G, Wireless LAN) and is available for several
-mobile platforms.
+OpenLoc is an open-source project that creates a privacy-preserving location estimation system which turns crowd-sourced observations on wireless networks into freely available location data. OpenLoc works with multiple mobile network technologies (GSM, 3G, Wireless LAN) and is available for several mobile platforms.
   
 While designing OpenLoc, our main objectives were:
 
-*Privacy*: OpenLoc uses anonymised data about geographical network coverage only
-and stores no data from individual users. No logs are kept, so any
-contribution to the network location repository is completely private. This
-makes server-side user tracking and location prediction impossible, even if
-the entire database is data-mined. OpenLoc's architecture is open for 3rd
-party anonymisation and location cloacking services. Thus users don't even
-have to trust any OpenLoc service provider.
+*Privacy*: OpenLoc uses anonymised data about geographical network coverage only and stores no data from individual users. No logs are kept, so any contribution to the network location repository is completely private. This makes server-side user tracking and location prediction impossible, even if the entire database is data-mined. OpenLoc's architecture is open for 3rd party anonymisation and location cloacking services. Thus users don't even have to trust any OpenLoc service provider.
 
-*Crowd-Sourcing*: To remain up-to-date OpenLoc relies on contributions from a
-community of people who gather network coverage data together with GPS data
-around the world. The unique design of OpenLoc's central location estimation
-algorithm ensures that the privacy of collected data remains protected.
-Collected network data can be published to a central repository at the
-discretion of the collector or be kept private for personal use only.
+*Crowd-Sourcing*: To remain up-to-date OpenLoc relies on contributions from a community of people who gather network coverage data together with GPS data around the world. The unique design of OpenLoc's central location estimation algorithm ensures that the privacy of collected data remains protected. Collected network data can be published to a central repository at the discretion of the collector or be kept private for personal use only.
 
-*Free*: OpenLoc is and will remain free of cost for non-commercial use. We
-believe that the data that has been collected by a community of users should
-remain in the possession of those users and not become private property of a
-company.
+*Free*: OpenLoc is and will remain free of cost for non-commercial use. We believe that the data that has been collected by a community of users should remain in the possession of those users and not become private property of a company.
 
-*Open Source*: All OpenLoc source code, API's and databases are available AS IS
-to the public under the XXX license. OpenLoc clients run on many mobile
-platforms and everyone is welcome to contribute alternative implementations.
-In addition, everyone can run his own private location estimation service
+*Open Source*: All OpenLoc source code, API's and databases are available AS IS to the public under the XXX license. OpenLoc clients run on many mobile platforms and everyone is welcome to contribute alternative implementations. In addition, everyone can run his own private location estimation service
 
 h2. History & Literature
 
@@ -53,9 +32,7 @@ h2. Features
 
 h2. TODO Items
 
-This list contains items that should be worked on. It is
-meant for us to keep track of things and for interested community developers
-to pick a topic of interest. The list is non-exhaustive.
+This list contains items that should be worked on. It is meant for us to keep track of things and for interested community developers to pick a topic of interest. The list is non-exhaustive.
 
 * develop a live location estimation server
 * develop client applications/libraries for simple access
